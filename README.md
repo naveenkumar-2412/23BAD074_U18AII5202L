@@ -34,7 +34,17 @@ Each experiment folder follows a consistent structure:
 **Focus:** Analysis of e-commerce transaction patterns and trends  
 **Script:** `exp2.R`
 
-### Experiment 3-7: [To be added]
+### Experiment 3: Healthcare Data Analysis
+**Dataset:** `healthcare_data.csv`  
+**Focus:** Scatter plot matrices and correlation analysis of health indicators across age groups  
+**Script:** `EXP3.R`
+
+### Experiment 4: Traffic Accident Data Analysis
+**Dataset:** `traffic_accidents.csv`  
+**Focus:** Multi-dimensional visualization of traffic accidents using effective visual encoding  
+**Script:** `EXP4.R`
+
+### Experiment 5-7: [To be added]
 
 
 ## Prerequisites
