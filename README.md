@@ -44,7 +44,15 @@ Each experiment folder follows a consistent structure:
 **Focus:** Multi-dimensional visualization of traffic accidents using effective visual encoding  
 **Script:** `EXP4.R`
 
-### Experiment 5-7: [To be added]
+### Experiment 5: Interactive Dashboard Development
+**Dataset:** `student_performance.csv`  
+**Focus:** Creating interactive Power BI dashboard for student performance analysis  
+**Tool:** Power BI Desktop
+
+### Experiment 6: Advanced Multi-Dimensional Visualization
+**Dataset:** `retail_business.csv`  
+**Focus:** Parallel coordinates, bubble charts, and trellis displays for retail data analysis  
+**Script:** `exp-6.R`
 
 
 ## Prerequisites
@@ -119,5 +127,5 @@ Roll no:23BAD074
 
 ---
 
-**Last Updated:** January 2026  
+**Last Updated:** February 2026  
 **Course:** Exploratory Data Analysis Laboratory
