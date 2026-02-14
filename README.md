@@ -54,6 +54,11 @@ Each experiment folder follows a consistent structure:
 **Focus:** Parallel coordinates, bubble charts, and trellis displays for retail data analysis  
 **Script:** `exp-6.R`
 
+### Experiment 7: Overplotting Reduction Techniques
+**Dataset:** `social_media_interactions.csv`  
+**Focus:** Techniques to handle overplotting including alpha blending, jittering, binning, and 2D binning  
+**Script:** `Exp7.R`
+
 
 ## Prerequisites
 

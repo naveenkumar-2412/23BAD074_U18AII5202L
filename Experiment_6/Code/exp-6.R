@@ -4,7 +4,7 @@ library(ggplot2)
 library(GGally)
 library(dplyr)
 
-df <- read.csv("C:/6.retail_business.csv")
+df <- read.csv("C:\\EDA_LAB_EXERCISE\\Experiment_6\\Data\\6.retail_business.csv")
 
 colnames(df) <- c(
   "Order_ID", "Region", "Product_Category",
